@@ -7,6 +7,12 @@
  
  EMS366 - most Genesis, Kia Stinger, Kona.
  
+ `rm -rf panda && git clone https://github.com/Circuit-Pro/panda -b EMS366 && cd /data/openpilot/panda/board && make && sudo reboot`
+ 
  EMS11 - Unknown
  
+  `rm -rf panda && git clone https://github.com/Circuit-Pro/panda -b EMS11 && cd /data/openpilot/panda/board && make && sudo reboot`
+
  E_EMS11 - EV's and Hybrids
+ 
+ `rm -rf panda && git clone https://github.com/Circuit-Pro/panda -b E_EMS11 && cd /data/openpilot/panda/board && make && sudo reboot`
